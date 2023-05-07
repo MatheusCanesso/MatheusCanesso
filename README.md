@@ -5,6 +5,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusCanesso)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/matheuscanesso)
 
-![MatheusCanesso GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusCanesso&show_icons=true&theme=highcontrast)
+![MatheusCanesso GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusCanesso&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCanesso&layout=compact)](https://github.com/MatheusCanesso/github-readme-stats)
