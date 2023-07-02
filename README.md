@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1350bf&size=35&font=Fira+Code&weight=400&center=true&vCenter=true&width=1000&lines=Olá!;Me+chamo+Matheus+Canesso+e+tenho+19-anos+</DEV>;)](https://git.io/typing-svg)
-
 ### Olá! Eu sou o Matheus Canesso ✌️💜
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-canesso-bbbb65202/)
