@@ -40,7 +40,7 @@
 
 <br>
 
-<p>Olá a todos, me chamo Matheus Canesso, tenho 19 anos e sou apaixonado<br>
+<p>Olá, tudo bem? Me chamo Matheus Canesso, tenho 19 anos e sou apaixonado<br>
   por arte e tecnologia, comecei a programar aos meus 15 ano de idade na<br>
   tentativa de criar um jogo, sou uma pessoa muito criativa e exploradora<br>
   e também curso ADS - Análise e Desenvolvimento de Sistemas na Fatec!</p>
