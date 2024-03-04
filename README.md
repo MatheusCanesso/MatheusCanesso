@@ -40,8 +40,8 @@
 
 <br>
 
-<p>Olá, tudo bem? Me chamo Matheus Canesso, tenho 19 anos e sou apaixonado<br>
-  por arte e tecnologia, comecei a programar aos meus 15 ano de idade na<br>
+<p>Olá, tudo bem? Me chamo Matheus Canesso, tenho 20 anos e sou apaixonado<br>
+  por Arte e Tecnologia, comecei a programar aos meus 14 anos de idade na<br>
   tentativa de criar um jogo, sou uma pessoa muito criativa e exploradora<br>
   e também curso Desenvolvimento de Sistemas na Etec!</p>
 
@@ -56,7 +56,7 @@
 <br>
 
 <div align="center">
-<img align="center" padding="15px" src="https://skills.thijs.gg/icons?i=html,css,js,bootstrap,materialui,react,tailwind,vite,androidstudio,java,spring,mysql,firebase"/>
+<img align="center" padding="15px" src="https://skills.thijs.gg/icons?i=html,css,js,bootstrap,materialui,react,typescript,tailwind,vite,androidstudio,java,spring,mysql,firebase"/>
 </div>
 
 <br>
