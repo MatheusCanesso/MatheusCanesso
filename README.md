@@ -41,8 +41,8 @@
 <br>
 
 <p>Olá, tudo bem? Me chamo Matheus Canesso, tenho 20 anos e sou apaixonado<br>
-  por Arte e Tecnologia, comecei a programar aos meus 14 anos de idade na<br>
-  tentativa de criar um jogo, sou uma pessoa muito criativa e exploradora<br>
+  por Arte e Tecnologia, comecei a programar aos meus 14 anos de idade e<br>
+  sou uma pessoa muito criativa e exploradora<br>
   e também curso Desenvolvimento de Sistemas na Etec!</p>
 
 </div>
