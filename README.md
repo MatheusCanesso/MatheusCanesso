@@ -1,6 +1,6 @@
 <div align="center">
   
-![Banner](https://github.com/MatheusCanesso/MatheusCanesso/blob/main/img/imagebanner1.png)
+![Banner](https://github.com/MatheusCanesso/MatheusCanesso/blob/main/img/imgTop.png)
 
 </div>
 <br>
@@ -86,6 +86,6 @@
 
 <div align="center">
   
-![Banner](https://github.com/MatheusCanesso/MatheusCanesso/blob/main/img/img2.png)
+![Banner](https://github.com/MatheusCanesso/MatheusCanesso/blob/main/img/imgBottom.png)
 
 </div>
