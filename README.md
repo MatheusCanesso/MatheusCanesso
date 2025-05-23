@@ -56,13 +56,23 @@
 <br>
 
 <div align="center">
-<img align="center" padding="15px" src="https://skills.thijs.gg/icons?i=html,css,js,bootstrap,materialui,react,typescript,tailwind,vite,androidstudio,java,spring,mysql,firebase"/>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui,react,typescript,tailwind,vite,androidstudio,java,spring,mysql,firebase" />
+  </a>
+</p>
 </div>
 
 <br>
 
 <div align="center">
-<img align="center" padding="15px" src="https://skills.thijs.gg/icons?i=figma,ai,ps,ae,xd"/>
+  <div align="center">
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ai,ps,ae,xd" />
+  </a>
+</p>
+</div>
 </div>
 
 <br>
