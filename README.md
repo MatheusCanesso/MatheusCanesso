@@ -43,7 +43,9 @@
 <p>Olá, tudo bem? Me chamo Matheus Canesso, tenho 21 anos e sou apaixonado<br>
   por Arte e Tecnologia, comecei a programar aos meus 14 anos de idade e não parei desde então,<br>
   sou uma pessoa muito criativa e exploradora, formado em Design Gráfico e Desenvolvimento de Sistemas pela Etec<br>
-  e atualmente estudo Desenvolvimento de Software Multiplataforma na Fatec!</p>
+  e atualmente estudo Desenvolvimento de Software Multiplataforma na Fatec.<br>
+  Aqui compartilho alguns dos meus trabalhos de programação, fique a vontade para entrar em contato sobre orçamento e outros trabalhos!
+</p>
 
 </div>
 
