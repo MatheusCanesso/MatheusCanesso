@@ -27,7 +27,7 @@
 <br>
 
 <div align="center">  
-  [![Canesso's GitHub stats](https://github-stats-extended.vercel.app/api?username=MatheusCanesso)](https://github.com/stats-organization/github-stats-extended)
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=canessodev)](https://github.com/stats-organization/github-stats-extended)
 </div>
 
 <br>
