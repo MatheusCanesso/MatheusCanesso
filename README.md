@@ -27,8 +27,6 @@
 <br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusCanesso&show_icons=true&count_private=true&hide_border=true&title_color=FD1FD7&icon_color=402CF9&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Canesso github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCanesso&layout=compact&hide_border=true&title_color=FD1FD7&text_color=c9d1d9&bg_color=0d1117" />
   [![Canessodev GitHub stats](https://github-stats-extended.vercel.app/api?username=MatheusCanesso)](https://github.com/stats-organization/github-stats-extended)
 </div>
 
