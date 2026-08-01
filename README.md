@@ -29,6 +29,8 @@
 <div align="center">
   
   [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MatheusCanesso&layout=donut&langs_count=6&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=MatheusCanesso&layout=donut&langs_count=6&theme=github_dark)
+
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MatheusCanesso&rank_icon=github&custom_title=Status%20do%20Canessodev&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=MatheusCanesso&rank_icon=github&custom_title=Status%20do%20Canessodev&show_icons=true&include_all_commits=true&theme=transparent)
   
 </div>
 
