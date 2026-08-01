@@ -28,7 +28,8 @@
 
 <div align="center">
   
-  [![Matheus Canesso GitHub stats](https://github-stats-extended.vercel.app/api?username=MatheusCanesso)](https://github.com/stats-organization/github-stats-extended)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MatheusCanesso&layout=donut&langs_count=6&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=MatheusCanesso&layout=donut&langs_count=6&theme=github_dark)
+  
 </div>
 
 <br>
